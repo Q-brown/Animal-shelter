@@ -1,0 +1,13 @@
+.rub{
+    background-image: url("/images/");
+}
+#tel{
+    background-image: url("/images/cats\ shelter.jpg");
+}
+p{
+    font-size: 40px;
+}
+.be{
+    background-image: url("/images/dogs\ shelter.png");
+    color: bisque;
+}
